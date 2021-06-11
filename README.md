@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mariusurbelis
+- 🌱 I’m currently learning Go
+- 📫 How to reach me marius@urbelis.dev
